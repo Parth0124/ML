@@ -8,3 +8,4 @@ statsmodels
 flask
 plotly
 nbformat
+xgboost
