@@ -10,3 +10,4 @@ plotly
 nbformat
 xgboost
 kneed
+flask
